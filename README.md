@@ -126,7 +126,7 @@ python -m pytest
 
 ### Video Demonstration
 
-[![Voice to Text Transcriber Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](YOUR_FULL_YOUTUBE_LINK)
+[![Voice to Text Transcriber Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.loom.com/share/b44a6990277b4178a3ca78b7fd79c6e0?sid=96ec1bbb-2767-42cd-9298-ac4d73cccd0e)
 
 > **Click the image above to watch the full demo video**
 
