@@ -122,13 +122,20 @@ python -m pytest
 - Torch
 - TorchAudio
 
-## 🤝 Contributing
+## 🎥 Project Demo
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a pull request
+### Video Demonstration
+
+[![Voice to Text Transcriber Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](YOUR_FULL_YOUTUBE_LINK)
+
+> **Click the image above to watch the full demo video**
+
+### Features Showcased
+
+- 🎤 Audio Recording Workflow
+- 📝 Real-time Transcription
+- 🗂️ Transcription History Management
+- 🧹 Clearing Transcriptions
 
 ## 🚨 Troubleshooting
 
