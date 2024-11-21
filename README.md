@@ -143,9 +143,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-# Ashish Kumar - ashishbgs9783@gmail.com
+#### Ashish Kumar - ashishbgs9783@gmail.com
 
-# Project Link: [https://github.com/Ashishkr05/voice-to-text](https://github.com/Ashishkr05/voice-to-text)
+#### Project Link: [https://github.com/Ashishkr05/voice-to-text](https://github.com/Ashishkr05/voice-to-text)
 
 ## 🙏 Acknowledgements
 
